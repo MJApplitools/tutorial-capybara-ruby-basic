@@ -1,4 +1,4 @@
-# Pre-requisites:
+# Pre-requisites: 
 
 1. Ruby is installed on your machine.
    * [See instructions here](https://www.ruby-lang.org/en/documentation/installation/)
