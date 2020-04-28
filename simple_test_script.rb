@@ -18,6 +18,7 @@ end
 
 begin
   # Call Open on eyes to initialize a test session
+  # new comment
   eyes.open(driver: page)
 
   # Navigate to the url we want to test
