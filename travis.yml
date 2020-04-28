@@ -1,6 +1,6 @@
 language: ruby
 rvm:
- - 2.2
+ - 2.6
  - jruby
  script: 
   - export APPLITOOLS_BATCH_ID=`echo ${TRAVIS_PULL_REQUEST_SHA:=$TRAVIS_COMMIT}`
